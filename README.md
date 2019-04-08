@@ -1,7 +1,7 @@
 # gstt
 Stock quotes monitor.
 ## Download
-* 1.0.0.28
+* [v1.0.0.28](https://github.com/wideyu/gstt/releases/download/v1.0.0.28/gsttSetup_1.0.0.28.exe)
 ## Changelog
 * 1.0.0.28 2019-4-8
   * Optimize UI.
