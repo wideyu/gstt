@@ -1,4 +1,5 @@
 # gstt
 Stock quotes monitor.
 ## Changelog
-* 2019-4-8
+* 1.0.0.28
+  * 2019-4-8
