@@ -9,5 +9,5 @@ Stock quotes monitor.
 ## Changelog
 
 * v1.0.0.28 2019-4-8
-  * Optimize UI.
   * Auto update.
+  * Optimize UI.
