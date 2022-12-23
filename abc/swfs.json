@@ -20,27 +20,181 @@
       "type": "Animation"
     },
     {
-      "location": "swfs/saturday_morning_watchmen.swf",
-      "title": "Saturday Morning Watchmen",
-      "author": "Harry Partridge",
-      "authorLink": "https://twitter.com/HappyHarryToons",
+      "location": "/swf/letter_B.swf",
+      "title": "letter B",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
       "type": "Animation"
     },
     {
-      "location": "swfs/synj1.swf",
-      "title": "Synj vs. Horrid Part 1",
-      "author": "Dan Paladin",
-      "authorLink": "https://www.thebehemoth.com",
+      "location": "/swf/letter_C.swf",
+      "title": "letter C",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
       "type": "Animation"
     },
     {
-      "location": "swfs/synj2.swf",
-      "title": "Synj vs. Horrid Part 2",
-      "author": "Dan Paladin",
-      "authorLink": "https://www.thebehemoth.com",
+      "location": "/swf/letter_D.swf",
+      "title": "letter D",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
       "type": "Animation"
     },
-
+    {
+      "location": "/swf/letter_E.swf",
+      "title": "letter E",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_F.swf",
+      "title": "letter F",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_G.swf",
+      "title": "letter G",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_H.swf",
+      "title": "letter H",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_I.swf",
+      "title": "letter I",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_J.swf",
+      "title": "letter J",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_K.swf",
+      "title": "letter K",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_L.swf",
+      "title": "letter L",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_M.swf",
+      "title": "letter M",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_N.swf",
+      "title": "letter N",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_O.swf",
+      "title": "letter O",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_P.swf",
+      "title": "letter P",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_Q.swf",
+      "title": "letter Q",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_R.swf",
+      "title": "letter R",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_S.swf",
+      "title": "letter S",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_T.swf",
+      "title": "letter T",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    }, 
+    {
+      "location": "/swf/letter_U.swf",
+      "title": "letter U",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_V.swf",
+      "title": "letter V",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_W.swf",
+      "title": "letter W",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_X.swf",
+      "title": "letter X",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_Y.swf",
+      "title": "letter Y",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    {
+      "location": "/swf/letter_Z.swf",
+      "title": "letter Z",
+      "author": "Little Fox",
+      "authorLink": "https://little.fox",
+      "type": "Animation"
+    },
+    
     {
       "location": "swfs/alien_hominid.swf",
       "title": "Alien Hominid",
